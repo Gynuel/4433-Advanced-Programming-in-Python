@@ -1,3 +1,5 @@
+# This is the Session #1 Exercise, please provide your answer and comments below.
+
 SURNAME_INDEX = 0
 FIRSTNAME_INDEX = 1
 ADULT_AGE = 18
